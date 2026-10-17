@@ -1,10 +1,10 @@
-# SKYC — Smart KYC-Based Financial Risk & Suspicious Activity Detection
+# SKYC - Smart KYC-Based Financial Risk & Suspicious Activity Detection
 
 Graduation project (B.Sc. Data Science, Al-Balqa Applied University, 2025/2026) — an ML system that scores transactions and customers for money-laundering and fraud risk, with rule-based explanations and a Streamlit dashboard.
 
 **Team:** Najd Raid Hwarat · Hala Nedal Amoor · Joud Salah Saleh — **Supervisor:** Dr. Nisrean Thalji
 
-📄 Full project report: [docs/SKYC_report.pdf](docs/SKYC_report.pdf)
+Full project report: [docs/SKYC_report.pdf](docs/SKYC_report.pdf)
 
 ## What it does
 
