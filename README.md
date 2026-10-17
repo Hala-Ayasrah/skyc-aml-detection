@@ -81,7 +81,7 @@ The raw datasets are too large for GitHub (≈10 GB in total). Download them fro
 | Credit Card Fraud Detection | [kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) | notebook 02 |
 | PaySim synthetic financial dataset | [kaggle.com/datasets/ealaxi/paysim1](https://www.kaggle.com/datasets/ealaxi/paysim1) | notebook 02 |
 
-To re-run notebook 02, save the files as `data/raw/creditcard.csv` and `data/raw/paysim.csv`. Notebook 01 needs about 40 GB of IBM AML CSVs; edit the paths at its top to point to your copies.
+Save the files in `data/raw/`: `creditcard.csv` and `paysim.csv` for notebook 02 and the experiments, and the four IBM AML Large files (about 40 GB) for notebook 01.
 
 ```bash
 pip install -r requirements-notebooks.txt
