@@ -1,0 +1,16 @@
+[
+  "amount",
+  "oldbalanceOrg",
+  "newbalanceOrig",
+  "oldbalanceDest",
+  "newbalanceDest",
+  "balance_diff_orig",
+  "balance_diff_dest",
+  "amount_vs_balance",
+  "is_night",
+  "type_CASH_IN",
+  "type_CASH_OUT",
+  "type_DEBIT",
+  "type_PAYMENT",
+  "type_TRANSFER"
+]

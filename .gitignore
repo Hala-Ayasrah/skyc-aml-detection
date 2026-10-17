@@ -1,0 +1,21 @@
+# Python / environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+__MACOSX/
+
+# Raw datasets (download from Kaggle, see README)
+data/raw/*
+!data/raw/.gitkeep
+
+# Files written when the notebooks are re-run
+notebooks/**/*.pkl
+notebooks/**/*.png
+notebooks/**/*.csv
+notebooks/**/*.parquet
+notebooks/**/*.json

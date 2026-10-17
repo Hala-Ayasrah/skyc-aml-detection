@@ -1,0 +1,10 @@
+# Exact versions used to train and save the models (scikit-learn 1.9.0).
+# pyarrow 24 is the last release that works with numpy 1.x.
+streamlit==1.58.0
+pandas==2.3.3
+numpy==1.26.4
+scikit-learn==1.9.0
+xgboost==3.2.0
+joblib==1.5.3
+plotly==6.8.0
+pyarrow==24.0.0
